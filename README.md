@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ygor-t-04a9a7134/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ygor takashi nishi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ygor takashi nishi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ygor takashi nishi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/153012" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ygor takashi nishi" height="30" width="40" /></a>
 <a href="https://instagram.com/ttakashi.nishi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ttakashi.nishi" height="30" width="40" /></a>
 </p>
 
