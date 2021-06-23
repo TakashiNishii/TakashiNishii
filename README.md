@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=takashinishii&label=Profile%20views&color=0e75b6&style=flat" alt="takashinishii" /> </p>
 
-- 🌱 I’m currently learning **AngularJS and Django**
+- 🌱 I’m currently learning **VueJS, Flutter and Java**
 
 - 📫 How to reach me **ygortn14@gmail.com**
 
